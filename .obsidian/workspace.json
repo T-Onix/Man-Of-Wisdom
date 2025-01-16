@@ -11,14 +11,10 @@
             "id": "6d7e26448968bcf8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -177,8 +173,8 @@
   },
   "active": "6d7e26448968bcf8",
   "lastOpenFiles": [
-    "Hack/Metasploit.md",
     "README.md",
+    "Hack/Metasploit.md",
     "Bug Bounty",
     "Untitled.canvas",
     "Hack/Post.md",
