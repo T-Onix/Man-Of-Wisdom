@@ -1,4 +1,5 @@
-### This Trick will just work in Ntfs Filesystem
+> [! note] 
+> #### This Trick will just work in Ntfs Filesystem
 
 Selecting malware(~={red}game.exe=~) 
 
