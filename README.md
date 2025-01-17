@@ -1,7 +1,7 @@
 ## This is my __Obsidian__ files that what i am learning 
 
 > [!note]
-> #### This are just for __Learning__ and __Aducation purpose only__
+> #### These are just for __Learning__ and __Aducation purpose only__
  
 - I will complete the files as soon as possible
 

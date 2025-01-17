@@ -13,3 +13,5 @@ XSS stands for Cross-Site Scripting. It's a security vulnerability found in web 
 Preventing XSS involves practices like sanitizing and validating user input, using secure coding techniques, and employing Content Security Policies (CSP)
 
 ![[Xss.png]]
+
+[[Xss-Script]]
