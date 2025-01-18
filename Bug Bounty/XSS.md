@@ -14,4 +14,8 @@ Preventing XSS involves practices like sanitizing and validating user input, usi
 
 ![[Xss.png]]
 
-[[Xss-Script]]
+- ### Example
+1. [[Xss-Script]]
+
+
+
