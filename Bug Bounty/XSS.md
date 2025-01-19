@@ -1,4 +1,4 @@
-XSS stands for ~={purple}Cross-Site Scripting=~. It's a security vulnerability found in web applications 
+XSS stands for ~={red}Cross-Site Scripting=~ It's a security vulnerability found in web applications 
 
 - __Example__ : attackers inject malicious scripts into trusted websites. When users visit these sites, their browsers execute the malicious scripts, allowing attackers to steal information, hijack user sessions, or perform other harmful actions
 
@@ -15,7 +15,7 @@ Preventing XSS involves practices like sanitizing and validating user input, usi
 ![[Xss.png]]
 
 - ### Example
-1. [[Xss-Script]]
+1. [[Xss-Scripts]]
 
-
-
+- #### See also ([[CSRF]])
+- #### See also([[CORS]])
