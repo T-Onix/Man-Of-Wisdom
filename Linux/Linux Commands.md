@@ -1,5 +1,7 @@
 ### ~={red}Useful Command For Linux=~
 
+![[Linux.jpg]]
+
 Run ls then exit from terminal :
 ```shell
 exec ls

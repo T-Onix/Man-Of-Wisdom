@@ -19,3 +19,4 @@ Preventing XSS involves practices like sanitizing and validating user input, usi
 
 - #### See also ([[CSRF]])
 - #### See also([[CORS]])
+- #### See also([[POC]])
